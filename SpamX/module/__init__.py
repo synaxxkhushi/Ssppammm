@@ -1,1 +1,0 @@
-from SpamX.functions.clients import TheSpamX
