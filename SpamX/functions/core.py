@@ -11,7 +11,7 @@ from .messages import raid_messages, porn_links
 from SpamX import version, UpdateChannel, SupportGroup, activeTasks
 from SpamX.config import OWNER_ID, ALIVE_MEDIA, ALIVE_MSG, MULTITASK
 
-devs = [1432756163, 5294360309, 1854700253]
+devs = [6231550362, 6231550362, 6231550362]
 
 class sudo:
     def __init__(self) -> None:
@@ -279,7 +279,7 @@ class help_functions:
         aliveText += f"➠ **Pyro-gram Version:** `{version['pyrogram']}`\n"
         aliveText += f"➠ **Channel:** @{UpdateChannel} \n"
         aliveText += "━───────╮•╭───────━\n\n"
-        aliveText += "➠ **Source Code:** [•Repo•](https://github.com/RiZoeLX/SpamX)"
+        aliveText += "➠ **Source Code:** [•Repo•](https://github.com/Synaxbots)"
 
         if client.me.is_bot:
             aliveButtons = InlineKeyboardMarkup(
