@@ -18,8 +18,8 @@ version = {
     "python": python_version(),
 }
 
-UpdateChannel = "SynaxBots"
-SupportGroup = "synaxchatgroup"
+UpdateChannel = "UR_RISHU_143"
+SupportGroup = "synaxxgiveway"
 
 activeTasks: dict = {}
 dataBase = dataBase
